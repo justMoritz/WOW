@@ -1,4 +1,8 @@
-# WOW.js [![Build Status](https://secure.travis-ci.org/graingert/WOW.svg?branch=master)](http://travis-ci.org/graingert/WOW)
+# What this is
+
+This release is a for of WOW that addresses some ADA concerns (that prevents tabbing to not-yet-visible items). The goal is not to replace WOW (use AOS) but to provide a quick fix for older sites without having to compeltely re-engineer them.
+
+## WOW.js [![Build Status](https://secure.travis-ci.org/graingert/WOW.svg?branch=master)](http://travis-ci.org/graingert/WOW)
 
 Temporary deprecation:
 ======================
